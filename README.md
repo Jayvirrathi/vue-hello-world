@@ -1,11 +1,11 @@
-# hello-world
+# Vue js Sample Project
 
 ## Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development [URL](http://localhost:3000/).
 ```
 yarn serve
 ```
@@ -19,6 +19,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
